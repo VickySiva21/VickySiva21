@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VickySiva21
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate with any Start-up company
+- ✨ I’m looking to collaborate with any Start-up company
 - 📫 How to reach me vigneshsivakumar213@gmail.com
 
 <!---
